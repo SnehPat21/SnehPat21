@@ -1,4 +1,5 @@
-## Hi, I'm Sneh Patel 👋
+## Hi, I'm Sneh Patel 👋 
+![Iowa City badge](https://img.shields.io/static/v1?message=IA&logo=google-maps&labelColor=ffcd00&color=000000&logoColor=black&label=Iowa%20City&style=for-the-badge)
 
 ### I am a junior at the University of Iowa studying Finance and Business Analytics. On campus, I am involved in multiple organizations which include the South Asian Student Alliance and Tippie Technology and Innovation Assoication. 
 
